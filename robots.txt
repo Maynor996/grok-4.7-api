@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maynor996.github.io/grok-4.7-api/sitemap.xml
